@@ -1,6 +1,6 @@
 ---
 title: Wes Osborne
-description: *Vox clamantis* at the Intersection of Myth and Tech 
+description: Vox clamantis at the Intersection of Myth and Tech 
 layout: default
 ---
 
