@@ -1,3 +1,3 @@
-# Start a F**king Blog!
+Wes Osborne
 
-Repo for the startafuckingblog.com website
+Repo for the wesosborne.com website

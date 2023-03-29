@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Fucking Blog
-description: This is a fucking blog page. Enjoy it.
-permalink: /fucking-blog/
+title: Wes Osborne
+description: My opinions are my own. Enjoy them. Or don't.
+permalink: /blog/
 ---
 
 {% for post in site.posts %}
