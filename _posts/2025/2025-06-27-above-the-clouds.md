@@ -1,4 +1,12 @@
-**“The Heat Above the Clouds”**
+---
+layout: post
+title: The Heat Above the Clouds
+description: A once-glorious architect of the digital age reflects, with singed wings and lucid sorrow, on the cost of flying too close to the gods of Silicon Valley
+typora-root-url: ../../
+---
+
+{: .large}
+**The Heat Above the Clouds**
 
 Ah, yes… *there* you are again. Good. I feared you’d left, swept up by another doomscrolling cascade. But you’ve lingered, and so I’ll speak plainly, if slowly.
 
