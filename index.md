@@ -3,11 +3,22 @@ title: Wes Osborne
 description: Vox Clamantis at the Intersection of Myth and Technology 
 layout: default
 ---
+**“Notes from a Bifurcated Mind”**
 
-## I Built my Career on a Hunch 
-You see, I launched myself with the precarious accelerant of an Ivy League *Artium Baccalaurei* double-major. In one hand, *Computer Science*, and in the other, *Literature and Creative Writing*. Had I been seeing a therapist as I should have back then, they might have warned me that such a wanton display of indecision posed genuine questions about my mental health. But who needs therapy when you have code and poetry? The way my youger self figured, if one approach didn't work out, surely the other would.
+Ah, now this—this is where the rot set in early. I launched myself, if you can call it that, with all the recklessness of a young man holding a match in one hand and a map to nowhere in the other. An *Artium Baccalaurei*, yes, as if Latin could confer gravitas upon my foolishness. A double-major, no less. In one hand, the strict geometry of *Computer Science*; in the other, the unruly fire of *Literature and Creative Writing*. It wasn’t ambition. It was indecision wearing a very clever hat.
 
-The truth is, I don't regret choosing both majors. They have taught me valuable lessons and opened up new possibilities for me. I love being able to switch between different modes of thinking and expression. I love being able to combine my passions and create something unique and original. I love being able to appreciate both the beauty and the functionality of language and technology. And most of all, I love being able to share my experiences and insights with you, my dear readers. So thank you for following me on this journey of discovery and self-acceptance. 
+Had I been in therapy—as I plainly should have been—some solemn, cardigan-clad clinician might have murmured something about overcompensation, identity diffusion, or the unspoken trauma of early academic achievement. But I had no time for that. I had recursion to master and sestinas to compose.
 
+You see, I believed—fervently, idiotically—that if one path betrayed me, the other might still embrace me. That if the cold machinery of code refused to sing, perhaps the music of metaphor would save me. Or vice versa. An escape hatch in either direction.
+
+And yet—listen closely now—I do *not* regret it.
+
+Because something strange happened, something I only understand now in the firelight of these later years: the paths began to converge. Poetry sharpened my programming. Algorithms taught me narrative structure. I found symmetry in sonnets, tension in threads, and that rare satisfaction when both the line and the logic resolve with elegance.
+
+It is a privilege, perhaps the only one I truly claim, to think in both symbols and syllables. To create not just systems, but stories. Not just stories, but systems of meaning.
+
+And so, if you find yourself caught between domains—between that which pays and that which sings—know this: it is *not* madness. It is a difficult gift. Use it well.
+
+Now go on. You've spent too long listening to an old man whisper into the smoke. Go write something that matters—or build something that *might*.
 
 
