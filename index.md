@@ -1,9 +1,9 @@
 ---
 title: Wes Osborne
-description: Vox Clamantis at the Intersection of Myth and Technology 
+description: Vox Clamantis inter Fabulam et Machinam 
 layout: default
 ---
-**“Notes from a Bifurcated Mind”**
+**Notes from a Bifurcated Mind**
 
 Ah, now this—this is where the rot set in early. I launched myself, if you can call it that, with all the recklessness of a young man holding a match in one hand and a map to nowhere in the other. An *Artium Baccalaurei*, yes, as if Latin could confer gravitas upon my foolishness. A double-major, no less. In one hand, the strict geometry of *Computer Science*; in the other, the unruly fire of *Literature and Creative Writing*. It wasn’t ambition. It was indecision wearing a very clever hat.
 
